@@ -1,0 +1,87 @@
+.dv{
+	height:2vw;
+	font-size:2vw;
+	color:orange;
+	background-color:red;
+}
+.login{
+	align-content:center;
+	background-color:#aa66ff;
+	font-size:2vw;
+	margin-top:2vw;
+	margin-left: auto;
+	margin-right: auto;
+}
+.logintd{
+	font-size:1.5vw;
+	color:#bb3300;
+}
+.tb{
+	font-size:1.8vw;
+	border-radius:1vw;
+	padding:.2vw;
+	margin-top:1vw;
+	color:blue;
+        margin-bottom:.8vw;
+}
+.bt{
+	font-size:1.4vw;
+	color:orange;
+	background-color:blue;
+	border-radius:1.5vw;
+	border-color:red;
+}
+.logdv{
+	font-size:.9vw;
+	color:red;
+	text-align: center;
+	
+}
+.sp{
+	font-size:2vw;
+	color:orange;
+	margin-left:16vw;
+	margin-right:auto;
+	font-family:fantasy;
+}
+.spa{
+	font-size:2.5vw;
+	color:red;
+}
+.tda{
+	font-size:2.5vw;
+	border:1vw;
+	background-color:white;
+	text-decoration:none;
+}
+.tbl
+{
+	margin-top:0vw;
+}
+.la{
+	font-size:2vw;
+	font-family:fantsy;
+	color:magenta;
+}
+.ta{
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:1.3vw;
+	border-radius:1vw;
+	background-color:#aaff77;
+}
+.td{
+	padding:.2vw;
+}
+.dvv{
+	 color:orange;
+	 margin-top:-29vw;
+	 margin-right:-18vw; 
+	 font-size:2vw;
+}
+.wbt{
+	font-size:1.4vw;
+	background-color:white;
+	border-radius:1.5vw;
+	border-color:red;
+}
